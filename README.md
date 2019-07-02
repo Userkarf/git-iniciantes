@@ -1,2 +1,2 @@
 # git-iniciantes
-.Md com comandos básicos de git para iniciantes
+.Md completo com comandos básicos de git para iniciantes
